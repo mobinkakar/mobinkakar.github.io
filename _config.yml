@@ -1,11 +1,11 @@
 # Site settings
 author: Mobin Kakar
-title: 
+title: Flatiron First Mile
 header-img: img/home-bg.png
 email: mobin.kakar@wsabronx.org
 copyright_name: Mobin Kakar
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Why I decided to study Software Engineering
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  mobinkakar
