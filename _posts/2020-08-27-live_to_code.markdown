@@ -1,0 +1,9 @@
+---
+layout: post
+title:      "Live to code"
+date:       2020-08-27 20:03:15 +0000
+permalink:  live_to_code
+---
+
+Coding has always been something intriguing to me. Evert since I was first introduced to the concept of coding. I was always curious as to how machines work for instance how a car operates and a computer operates. 
+writing code is the most precise way for me to express my thought process and creativity. It is a craft that needs to be developed. In other words, it's something that you can spend their whole lives improving their skills in. Coding is something that can open your mind to the endless possibilities of opportunities. It is akin to being a professional musician or athlete, versus being an account manager or store manager. The great part about coding is that it has a community. The community of software engineers is much closer-knit than most professions. Flatirons are exactly the same community that I had envisioned. It is nurtured with great teachers and students that are always willing to help you in times of need. As a coder you can easily gain recognition by posting on hacker news, speaking at local conferences, or building/contributing to an open-source tool. Why choose a profession that will be boring when you can choose something that will always be changing and as well as challenging. There is a near-infinite amount of stuff you can learn, even if you are just talking about Ruby/Rails. Add to that the many new languages, programming paradigms, understanding the hardware, science, and theory, and you will never get bored if you like to learn. Lastly, there are promising future and jobs available in this field. I can take care of my family once I get a job and will introduce my family/siblings to coding as well. Coding as a software engineer is what I see myself doing in the future. 
